@@ -1,0 +1,7 @@
+1234
+<<<<<<< HEAD
+abcd
+rxctfgviyubhb
+=======
+abcdvygacbh nlkjvaejvnkjean
+>>>>>>> new-branch

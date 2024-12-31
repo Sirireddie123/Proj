@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+abc
+xagbxakjlms
+=======
+abcd
+zjhbascjkl
+jnczac
+<<<<<<< HEAD
+1234
+=======
+=======
+abcdhbks
+fvkjsbfvskjNV
+5678
+>>>>>>> 1632a86faa76eebfa0a037805e9132c674b7c1fa
+>>>>>>> 3b951354aaa27b2b4230c391d1735c65b1e73416
+>>>>>>> new
